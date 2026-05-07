@@ -23,7 +23,7 @@ export default function Hero() {
         </div>
       </div>
       <div className="hero-img">
-        <img src="hero-img.jpeg" alt="Oghenekevwe Jade Etaduovie" />
+        <img src="src\assets\hero-img.jpeg" alt="Oghenekevwe Jade Etaduovie" />
       </div>
     </section>
   );
