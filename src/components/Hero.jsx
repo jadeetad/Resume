@@ -23,7 +23,7 @@ export default function Hero() {
         </div>
       </div>
       <div className="hero-img">
-        <img src="src\images\Screenshot_20251231-223147.png" alt="Oghenekevwe Jade Etaduovie" />
+        <img src="WhatsApp Image 2026-05-07 at 11.03.27 AM.jpeg" alt="Oghenekevwe Jade Etaduovie" />
       </div>
     </section>
   );
