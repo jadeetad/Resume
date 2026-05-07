@@ -1,3 +1,5 @@
+import heroImg from '../assets/hero-img.jpeg';
+
 export default function Hero() {
   return (
     <section className="hero">
@@ -23,7 +25,7 @@ export default function Hero() {
         </div>
       </div>
       <div className="hero-img">
-        <img src="src\assets\hero-img.jpeg" alt="Oghenekevwe Jade Etaduovie" />
+        <img src={heroImg} alt="Oghenekevwe Jade Etaduovie" />
       </div>
     </section>
   );
